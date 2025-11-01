@@ -1,0 +1,3 @@
+edu\ensias\kafka\Main.class
+edu\ensias\kafka\labkafka\EventProducer.class
+edu\ensias\kafka\labkafka\EventConsumer.class
